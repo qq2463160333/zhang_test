@@ -15,3 +15,4 @@ static void __exit gqb_hello_exit(void)
 }
 module_init(gqb_hello_init);//动态加载/卸载模块时，需要使用module_init()/module_exit来进行
 module_exit(gqb_hello_exit);
+//hahahahah
