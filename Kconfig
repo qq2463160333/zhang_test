@@ -1,0 +1,4 @@
+config GQB_HELLO
+	tristate "TQ2416 gqb_hello"
+	help
+	   gqb's first driver program!
